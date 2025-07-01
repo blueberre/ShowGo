@@ -1,4 +1,4 @@
-🎬 UX Design - ShowGo (A Movie Booking App)
+# 🎬 UX Design - ShowGo (A Movie Booking App)
 
 > **Note:** This repository is a personal copy of our **group project (Group 29)**. The project was developed collaboratively with other group members and has already been uploaded on GitHub by another teammate [here](https://github.com/sania053/IE418_G29_ShowGo). I am uploading it on my GitHub only to showcase my own contribution and for academic archiving purposes.
 
